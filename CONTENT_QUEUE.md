@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best cat scratching posts UK
 - Best dog crates for puppies
 - Best flea and tick treatment for dogs UK
 - Best interactive cat toys
@@ -28,6 +27,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best cat scratching posts UK (2026-09-30)
 - Best dog toys for aggressive chewers (2026-09-29)
 - Best budget dog beds UK (2026-09-28)
 - Best dog harnesses UK (2026-09-28)
