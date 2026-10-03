@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best interactive cat toys
 - Best dog food storage containers
 - Best puppy training pads
 - Best cat trees for small flats
@@ -25,6 +24,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best interactive cat toys (2026-10-03)
 - Best flea and tick treatment for dogs UK (2026-10-02)
 - Best dog crates for puppies (2026-10-01)
 - Best cat scratching posts UK (2026-09-30)
