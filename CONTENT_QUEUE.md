@@ -7,7 +7,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 ## Queue (next up first)
 
 - Best dog food storage containers
-- Best puppy training pads
 - Best cat trees for small flats
 - Best dog grooming clippers UK
 - Best slow feeder bowls for dogs
@@ -24,6 +23,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best puppy training pads (2026-10-04)
 - Best interactive cat toys (2026-10-03)
 - Best flea and tick treatment for dogs UK (2026-10-02)
 - Best dog crates for puppies (2026-10-01)
